@@ -10,3 +10,9 @@ Coding Dojo sessions
   - Java solution: normal and strategy pattern
 - [Kata Roman Numerals](http://www.solveet.com/exercises/Kata-Roman-Numerals/9) : TDD-Algorithm 
   - Java solution
+- Kata Rover : TDD-DesignPattern
+	- Java solution
+- [Kata Incomprehensible Finder](https://github.com/DoDevJutsu/incomprehensible-finder-refactoring-java) : Refactoring
+	- Java solution
+- [Kata TodoList] : Refactoring
+	- Typescript solution
